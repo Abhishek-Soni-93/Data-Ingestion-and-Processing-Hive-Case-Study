@@ -14,7 +14,7 @@ The dataset has been placed in the HDFS storage of the lab. The path to the data
 https://www.corestack.io/corestack-claas/
 Cloud Lab as a Service (CLaaS) is an on-demand, virtual practice environment for students/professionals pursuing technical subjects. This offering allows students & professionals the convenience of access to practice labs anytime and anywhere, to supplement classroom learning.
 
-#### Results Expected:
+#### Expected Results:
 ##### Basic Data Quality Checks
 - How many records has each TPEP provider provided? Write a query that summarises the number of records of each provider.
 - The data provided is for months November and December only. Check whether the data is consistent, and if not, identify the data quality issues. Mention all data quality issues in comments.
